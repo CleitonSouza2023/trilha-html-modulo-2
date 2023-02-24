@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Template - Utilizar como modelo</title>
+    <link rel="stylesheet" href="base.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="menu">
+            <img src="depositphotos_203223754-stock-illustration-veterinary-clinic-signs-banner-vecrtical.jpg" alt="" width="500" height="700" >
+            <ul>
+                <li><a href="index2.html">Saúde do Seu Pet</a></li>
+
+                    <li><a href="index3.html">Comida do Pet</a></li>
+                    
+                        <li><a href="#">Cuidados com o Pet</a></li>
+                       
+            </ul>
+        </div>
+
+        <div class="main">
+            <div class="header">
+                <Header>
+                    <img src="Logo.webp" alt="" width="150" >
+                
+                    <h1>Clínica Pet</h1>
+
+                </Header>
+                
+            </div>
+    
+            <div class="content">
+                <content>
+                    <h2>
+                        Clínica Veterinária
+                    </h2>
+                    <p>
+                        Uma clínica veterinária é um local onde os donos de animais de estimação podem levar seus animais para receber cuidados médicos 
+especializados. Essas clínicas oferecem uma variedade de serviços, desde consultas de rotina até cirurgias complexas.
+
+A equipe de uma clínica veterinária é composta por médicos veterinários, enfermeiros veterinários, assistentes veterinários e outros funcionários. Todos 
+trabalham juntos para garantir que os animais recebam o melhor tratamento possível.
+<p>
+
+Ao chegar em uma clínica veterinária, o animal passa por uma triagem para determinar suas necessidades médicas. O veterinário realiza um exame físico completo 
+e pode solicitar exames laboratoriais ou radiografias, se necessário. Com base nos resultados, o veterinário pode prescrever medicação ou recomendar um 
+tratamento específico.
+
+Além disso, as clínicas veterinárias também oferecem serviços preventivos, como vacinações e exames regulares. Esses serviços são essenciais para manter a 
+saúde dos animais e prevenir doenças.
+</p>
+
+<mark> Outros serviços oferecidos por clínicas veterinárias incluem cirurgias e procedimentos dentários. A equipe da clínica se certifica de que o animal 
+receba os cuidados adequados antes, durante e depois do procedimento. </mark>
+
+Algumas clínicas veterinárias também oferecem serviços de emergência 24 horas por dia, sete dias por semana. Isso é especialmente importante em situações de 
+emergência, como quando o animal está gravemente ferido ou doente.
+<p>
+Além dos cuidados médicos, as clínicas veterinárias também oferecem serviços adicionais, como banho e tosa, hospedagem e treinamento de comportamento. Esses 
+serviços ajudam a manter o animal saudável e feliz, além de fortalecer o vínculo entre o animal e seu dono.
+
+As clínicas veterinárias também <strong> <i>desempenham um papel importante na prevenção de doenças e lesões em animais de estimação. </i>  </strong> Os 
+veterinários podem educar os donos sobre como cuidar adequadamente de seus animais de estimação, incluindo nutrição, exercícios e cuidados preventivos.
+
+As clínicas veterinárias também trabalham com organizações de resgate e abrigos para ajudar animais necessitados. Eles fornecem tratamento médico e cuidados 
+de qualidade para animais resgatados, ajudando a melhorar suas chances de adoção.
+</p>
+Em resumo, uma clínica veterinária é um lugar importante para os donos de animais de estimação. Eles oferecem cuidados médicos especializados, serviços 
+preventivos, serviços adicionais e educação para manter os animais de estimação saudáveis e felizes. Com o cuidado adequado, os animais de estimação podem 
+viver uma vida saudável e longa ao lado de seus donos amorosos.
+
+
+
+
+                    </p>
+                </content>
+                
+            </div>
+             <form action=""></form>
+               <label for="InputNome">Primeiro Nome</label>
+               <input type="text" id="InputNome">
+
+                <label for="InputEmail">Endereço de Email:</label>
+                <input type="text" id="InputEmail">
+
+                  
+ 
+                 <label for="textarea">Mensagem</label>
+                   <textarea name="textarea" id="textarea" cols="30" rows="10"></textarea>
+
+                   <button>Enviar Mensagem</button>
+                  
+            <div class="footer">
+                <footer>
+                    
+                    <dl>
+                        <dt>E-mail</dt>
+                        <dd>sdusdbs.com</dd>
+                        <br>
+                        <dt>Telefone</dt>
+                        <dd>(71)9 9999-9999</dd>
+                    </dl>
+                    <p> <strong> Casa Pet </strong></p>
+                    <img src="banner_DrVet_V2.fw_.png" alt="" width="1200" >
+                </footer>
+               
+            </div>
+        </div>
+    </div>
+</body>
+</html>
