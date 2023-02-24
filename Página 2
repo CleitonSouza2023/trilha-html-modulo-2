@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Template - Utilizar como modelo</title>
+    <link rel="stylesheet" href="base.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="menu">
+            <img src="depositphotos_203223754-stock-illustration-veterinary-clinic-signs-banner-vecrtical.jpg" alt="" width="500" height="700" >
+            <ul>
+                <li><a href="index2.html">Saúde do Seu Pet</a></li>
+
+                    <li><a href="">Comida do Pet</a></li>
+                    
+                        <li><a href="index.html">Cuidados com o Pet</a></li>
+                       
+            </ul>
+        </div>
+
+        <div class="main">
+            <div class="header">
+                <Header>
+                    <img src="Logo.webp" alt="" width="150" >
+                
+                    <h1>Clínica Pet</h1>
+
+                </Header>
+                
+            </div>
+    
+            <div class="content">
+                <content>
+                    <h2>
+                        Saúde do Pet
+                    </h2>
+                    
+                    <ol> 
+                      <li>Alimentação adequada: A alimentação do pet deve ser adequada para a sua espécie, idade e condição física. <br> O tipo e quantidade 
+de alimento devem ser orientados por um veterinário.
+
+                        </li>
+                        <li>
+                            Hidratação: Água fresca e limpa deve estar sempre disponível para o pet.
+                        </li>
+                           <li>
+                            Exercícios físicos: O pet deve ter atividades físicas regulares para manter a saúde <br> cardiovascular, fortalecer a musculatura 
+e prevenir a obesidade.
+                        </li>
+                        <li>
+                            Higiene: Os pets devem ser banhados e escovados regularmente, além das unhas, ouvidos e <br> dentes também precisarem de cuidados 
+específicos.
+                        </li>
+                    </ol>
+
+
+
+
+                    
+                </content>
+                
+            </div>
+            <h3>
+                    <strong>Nos Localize!</strong>
+            </h3>
+
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15589.965768750715!2d-38.54208776278709!3d-12.
+349978699046286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.
+1!3m3!1m2!1s0x71684f93f5f24fd%3A0xd1ca567cf074f869!2sBrejinho%20-%20Terra%20Nova%2C%20Catu%20-%20BA%2C%2048110-000!5e0!3m2!1spt-BR!2sbr!4v167726213
+1976!5m2!1spt-BR!2sbr" width="600" height="450" style="border: 10px;;" allowfullscreen="" loading="lazy" 
+referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+                  
+            <div class="footer">
+                <footer>
+                    
+                    <dl>
+                        <dt>E-mail</dt>
+                        <dd>sdusdbs.com</dd>
+                        <br>
+                        <dt>Telefone</dt>
+                        <dd>(71)9 9999-9999</dd>
+                    </dl>
+                    <p> <strong> Casa Pet </strong></p>
+                    <img src="banner_DrVet_V2.fw_.png" alt="" width="1200" >
+                </footer>
+               
+            </div>
+        </div>
+    </div>
+</body>
+</html>
