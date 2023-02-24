@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Template - Utilizar como modelo</title>
+    <link rel="stylesheet" href="base.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="menu">
+            <img src="depositphotos_203223754-stock-illustration-veterinary-clinic-signs-banner-vecrtical.jpg" alt="" width="500" height="700" >
+            <ul>
+                <li><a href="index.html">Página 1</a></li>
+                <li><a href="index2.html">Página 2</a></li>
+                
+            </ul>
+        </div>
+
+        <div class="main">
+            <div class="header">
+                <Header>
+                    <img src="Logo.webp" alt="" width="150" >
+                
+                    <h1>Clínica Pet</h1>
+                </Header>
+            </div>
+    
+            <div class="content">
+                Content
+                <h2> Ração para o seu Pet </h2>
+                    <ul>
+                        <li>
+                            Ração para filhotes - contém níveis mais elevados de proteína, vitaminas e minerais para suportar <br> o crescimento e 
+desenvolvimento saudável dos filhotes.
+                        </li>
+                          <li>
+                            Ração para cães adultos - oferece uma mistura balanceada de nutrientes para manter a saúde e o bem-estar <br> geral do cão adulto.
+
+                          </li>
+                            <li>
+                                Ração para cães idosos - projetada para atender às necessidades nutricionais dos cães mais velhos, incluindo <br> níveis 
+reduzidos de calorias e gorduras para ajudar a manter um peso saudável.
+                            </li>
+                              <li>
+                                Ração para cães ativos - contém níveis elevados de proteína e gordura para fornecer energia extra aos cães que <br> são mais 
+ativos e precisam de mais combustível.
+                              </li>
+                    </ul>
+                    
+                
+                
+                
+                
+                </h2>
+            </div>
+    
+            <div class="footer">
+                
+               
+                <dl>
+                    <dt>E-mail</dt>
+                    <dd>sdusdbs.com</dd>
+                    <br>
+                    <dt>Telefone</dt>
+                    <dd>(71)9 9999-9999</dd>
+                </dl>
+                <p> <strong> Casa Pet </strong></p>
+                <img src="banner_DrVet_V2.fw_.png" alt="" width="1200" >
+            </div>
+        </div>
+    </div>
+</body>
+</html>
